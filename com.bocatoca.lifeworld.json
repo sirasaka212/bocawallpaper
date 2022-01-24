@@ -1,14 +1,14 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v20j15",
+"JSON_POPUP_WAIT" : "Loading data please wait . . . ",
 
 "TOAST_NOTIF" : false,
 
 "MODE_NO_ADS" : false,
 "MODE_BACKUP_ADS" : true,
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
 
 //     * mode pengaturan iklan
 //     * Mode ADMOB       Admob backup Unity Backup Startapp
@@ -47,8 +47,8 @@
 
 "STARAPPID" : "201365479",
 
-"APPLOVIN_BANNER_ID" : "ISIAN",
-"APPLOVIN_INTERSTITIAL_ID" : "ISIAN",
+"APPLOVIN_BANNER_ID" : "",
+"APPLOVIN_INTERSTITIAL_ID" : "",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
@@ -60,23 +60,11 @@
 "BUTTON_SHARE" : "SHARE TO FRIEND",
 "BUTTON_START" : "START",
 
-"EXIT_POPUP_DIALOG" : "
-jika kamu menikmati aplikasi ini
-
-bantu kami dengan rating bintang 5 ya
-
-klik tombol rating
-
-",
+"EXIT_POPUP_DIALOG" : "Help us by giving a five stars rating so we can providing the latest updates",
 "RATE_BUTTON" : "RATING 5 STARS",
 "LATER_BUTTON" : "LATER",
 "ENABLE_SHARE_BUTTON" : true,
-"SHARE_TXT" : "
-wah aplikasi ini bagus banget
-aku udah nyobain 
-coba deh kamu donwload sekrang juga
-
-",
+"SHARE_TXT" : "Awesome app install now",
 "MORE_BUTTON" : "SHARE VIA WHATSAPP",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
 
