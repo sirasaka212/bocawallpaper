@@ -8,7 +8,7 @@
 "MODE_NO_ADS" : false,
 "MODE_BACKUP_ADS" : true,
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 //     * mode pengaturan iklan
 //     * Mode ADMOB       Admob backup Unity Backup Startapp
@@ -24,14 +24,14 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTERS_COUNT_WEB" : 5,
+"INTERS_COUNT_WEB" : 3,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
-"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-3562934263530498/7046737033",
+"ADMOB_INTER" : "ca-app-pub-3562934263530498/5817415845",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -56,17 +56,17 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"BUTTON_RATING" : "RATING",
-"BUTTON_SHARE" : "SHARE TO FRIEND",
+"BUTTON_RATING" : "RATE",
+"BUTTON_SHARE" : "SHARE",
 "BUTTON_START" : "START",
 
 "EXIT_POPUP_DIALOG" : "Help us by giving a five stars rating so we can provide the latest updates.",
 "RATE_BUTTON" : "RATING 5 STARS",
 "LATER_BUTTON" : "LATER",
-"ENABLE_SHARE_BUTTON" : true,
+"ENABLE_SHARE_BUTTON" : false,
 "SHARE_TXT" : "Awesome app install now",
-"MORE_BUTTON" : "SHARE VIA WHATSAPP",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+"MORE_BUTTON" : "Recommended App",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.unofficialguide.bocatocalifeworld",
 
 "REDIRECT_TRAFFIC" : false,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
